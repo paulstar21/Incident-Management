@@ -1,2 +1,2 @@
 # Incident-Management
-Incident Management Tool
+Incident Management Software
